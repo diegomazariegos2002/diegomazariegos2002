@@ -43,7 +43,7 @@ Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de github sobre los lenguajes donde más he codificado en los repositorios.
 
 <a href="https://github.com/diegomazariegos2002/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGVM&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomazariegos2002&layout=compact&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/diegomazariegos2002/github-readme-stats">
