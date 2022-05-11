@@ -42,11 +42,11 @@ Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática
 ## Estadísticas
 Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es una medida de github sobre los lenguajes donde más he codificado en los repositorios.
 
-<a href="https://github.com/AlexGVM/github-readme-stats">
+<a href="https://github.com/diegomazariegos2002/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGVM&layout=compact&theme=tokyonight" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><a href="https://github.com/AlexGVM/github-readme-stats">
+<br><a href="https://github.com/diegomazariegos2002/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexGVM&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Diego" />
 </a> &nbsp;
 
