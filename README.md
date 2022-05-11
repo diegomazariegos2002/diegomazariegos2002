@@ -50,11 +50,6 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomazariegos2002&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Diego" />
 </a> &nbsp;
 
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 ## Conecta conmigo
