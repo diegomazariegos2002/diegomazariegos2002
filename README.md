@@ -24,10 +24,7 @@ Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática
 	<ul>
     <li>Visual Studio</li>
     <li>Netbeans</li>
-	  <li>SQL Server Management Studio</li>
-	  <li>Sony Vegas</li>
-		<li>Jupyter</li>
-		<li>Spyder</li>
+    <li>SQL Server Management Studio</li>
 	</ul>
 </details>
 
@@ -35,7 +32,7 @@ Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática
 	<summary>Sistemas operativos</summary>
 	<ul>
 	  <li>Windows</li>
-    <li>Ubuntu</li>
+ 	  <li>Ubuntu</li>
 	</ul>
 </details>
 
