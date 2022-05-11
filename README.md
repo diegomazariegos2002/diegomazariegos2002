@@ -47,7 +47,7 @@ Nota: Los lenguajes más usados no indican mi nivel de dominio sobre ellos. Es u
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><a href="https://github.com/AlexGVM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexGVM&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Alex" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexGVM&show_icons=true&include_all_commits=true&theme=tokyonight&line_height=27" alt="Estadísticas de Github de Diego" />
 </a> &nbsp;
 
 <p align="center"> 
