@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🖥 Estudiante de ingeniería
-Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala.
+Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en informática y sistemas de Guatemala en la Universidad de San Carlos de Guatemala (USAC).
 ## Habilidades
 <img src="https://img.shields.io/badge/-C%23-blueviolet" /> <img src="https://img.shields.io/badge/-Java-orange" />
 <img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey" /> <img src="https://img.shields.io/badge/-Python-lightgrey" /> <img src="https://img.shields.io/badge/-SonyVegas-9cf" /> <img src="https://img.shields.io/badge/-Assembly-brown" /> 
