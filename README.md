@@ -1,4 +1,4 @@
-### ¡Hola! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### ¡Bienvenido! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 # 🖥 Estudiante de ingeniería
 Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en ciencias y sistemas de Guatemala en la Universidad de San Carlos de Guatemala (USAC).
