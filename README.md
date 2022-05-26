@@ -4,7 +4,7 @@
 Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en ciencias y sistemas de Guatemala en la Universidad de San Carlos de Guatemala (USAC).
 ## Habilidades
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML-red" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-lightgrey" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+<img src="https://ileriayo.github.io/markdown-badges/#:~:text=https%3A//img.shields.io/badge/html5%2D%2523E34F26.svg%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dhtml5%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-lightgrey" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
 
 <details>
 	<summary>Herramientas</summary>
