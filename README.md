@@ -4,7 +4,7 @@
 Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en ciencias y sistemas de Guatemala en la Universidad de San Carlos de Guatemala (USAC).
 ## Habilidades
 <img src="https://img.shields.io/badge/-Python-lightgrey" />
-<img src="https://ileriayo.github.io/markdown-badges/#:~:text=https%3A//img.shields.io/badge/c%2523%2D%2523239120.svg%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3Dc%2Dsharp%26logoColor%3Dwhite" />
+<img src="" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
