@@ -12,7 +12,6 @@ Yo soy Diego Mazariegos, un apasionado estudiante de ingeniería en ciencias y s
 	<ul>
     <li>Visual Studio</li>
     <li>Netbeans</li>
-    <li>SQL Server Management Studio</li>
 	</ul>
 </details>
 
