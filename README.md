@@ -1,7 +1,7 @@
 ### ¡Bienvenido! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 # 🖥 Desarrollador Backend
-Soy Diego André Mazariegos Barrientos, un desarrollador donde he contribuido al desarrollo de software utilizando diversidad de tecnologías. He liderado proyectos significativos. Con una sólida formación académica y profesional donde he destacado por mi excelencia,  habilidades técnicas y un enfoque orientado a resultados que agregan valor a los proyectos en los que me involucro. Me considero autodidacta apoyándome de Stack Overflow, Udemy y mis compañeros.
+Soy Diego André Mazariegos Barrientos, he contribuido al desarrollo de software utilizando diversidad de tecnologías. He liderado proyectos significativos. Con una sólida formación académica y profesional donde he destacado por mi excelencia,  habilidades técnicas y un enfoque orientado a resultados que agregan valor a los proyectos en los que me involucro. Me considero autodidacta apoyándome de Stack Overflow, Udemy y mis compañeros.
 
 ## Habilidades
 
